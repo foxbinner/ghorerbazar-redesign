@@ -26,33 +26,33 @@
 
 <table width="100%">
 <tr>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/dyYsCPR/homepage.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Homepage</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/35NPb8c0/product-show-page.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Product Listing</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/DH6DtWLK/product-details.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Product Details</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/srYpxKZ/homepage.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/srYpxKZ/homepage.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Homepage</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/kV8PTrXh/product-show-page.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/kV8PTrXh/product-show-page.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Product Listing</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/bMygPm7d/product-details.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/bMygPm7d/product-details.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Product Details</b></td>
 </tr>
 <tr>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/HTTWfzr9/checkout.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Checkout</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/BYt81WM/profile.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Profile</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/fYrMjwLv/profile-order.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Profile — Orders</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/TMMVx8HN/checkout.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/TMMVx8HN/checkout.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Checkout</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/Qxfs5Sw/profile.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/Qxfs5Sw/profile.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Profile</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/mChJfWg8/profile-order.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/mChJfWg8/profile-order.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Profile — Orders</b></td>
 </tr>
 <tr>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/twXR3YDR/profile-wishlist.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Profile — Wishlist</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/KzNRCn9N/about.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>About</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/tTV2RRbS/contact.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Contact</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/LD5Kv91K/profile-wishlist.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/LD5Kv91K/profile-wishlist.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Profile — Wishlist</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/FqsNGpBs/about.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/FqsNGpBs/about.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>About</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/LXVgKKCM/contact.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/LXVgKKCM/contact.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Contact</b></td>
 </tr>
 <tr>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/1YWHNvyx/admin-dashboard.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Dashboard</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/ZzjPsq5Q/admin-order.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Orders</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/MH55L7B/admin-order-details.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Order Details</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/twry6mj5/admin-dashboard.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/twry6mj5/admin-dashboard.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Dashboard</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/chBH540W/admin-order.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/chBH540W/admin-order.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Orders</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/4Lggxp1/admin-order-details.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/4Lggxp1/admin-order-details.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Order Details</b></td>
 </tr>
 <tr>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/PG8HRmQc/admin-product-list.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Product List</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/spMrZm7N/admin-product-catagory.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Categories</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/bR3N4nK2/admin-product-brand.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Brands</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/HTQ80Fdt/admin-product-list.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/HTQ80Fdt/admin-product-list.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Product List</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/vCK8Sw9T/admin-product-catagory.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/vCK8Sw9T/admin-product-catagory.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Categories</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/fGSr37xn/admin-product-brand.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/fGSr37xn/admin-product-brand.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Brands</b></td>
 </tr>
 <tr>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/23Bf26Rr/admin-banner.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Banners</b></td>
-  <td align="center" width="33%"><img src="https://wsrv.nl/?url=i.ibb.co.com/vxh9TLr6/admin-settings.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"><br><b>Admin Settings</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/k2FWnyzT/admin-banner.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/k2FWnyzT/admin-banner.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Banners</b></td>
+  <td align="center" width="33%"><a href="https://i.ibb.co.com/BVGkQT75/admin-settings.png" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=i.ibb.co.com/BVGkQT75/admin-settings.png&w=220&h=220&fit=contain&bg=000000" width="220" height="220"></a><br><b>Admin Settings</b></td>
   <td></td>
 </tr>
 </table>
