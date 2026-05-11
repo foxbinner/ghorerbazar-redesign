@@ -12,6 +12,8 @@ const DEFAULTS = {
   address: 'Dhaka, Bangladesh',
   bkash_number: '01XXXXXXXXX',
   nagad_number: '01XXXXXXXXX',
+  hero_spotlight_url: 'https://backoffice.ghorerbazar.com/banner/vCjm21777706156.png',
+  hero_spotlight_link: '/products/african-organic-wild-honey-250g',
 };
 
 const SettingsContext = createContext(DEFAULTS);

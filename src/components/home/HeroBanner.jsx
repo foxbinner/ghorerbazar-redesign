@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
+import { useSettings } from "../../context/SettingsContext";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
@@ -36,6 +37,7 @@ const slides = [
 
 export default function HeroBanner() {
   const swiperRef = useRef(null);
+  const { hero_spotlight_url, hero_spotlight_link } = useSettings();
 
   return (
     <section className="flex gap-3 px-4 sm:px-6 lg:px-8 py-8 sm:py-12 h-[300px] sm:h-[380px] lg:h-[440px] max-w-7xl mx-auto w-full">
@@ -85,12 +87,12 @@ export default function HeroBanner() {
 
       {/* Right — Product spotlight (30%), hidden on mobile */}
       <Link
-        to="/products/gawa-ghee-1kg"
+        to={hero_spotlight_link}
         className="hidden lg:block w-[30%] h-full rounded-2xl overflow-hidden group"
       >
         <img
-          src="https://backoffice.ghorerbazar.com/banner/9weyd1775362946.jpeg"
-          alt="Gawa Ghee 1kg"
+          src={hero_spotlight_url}
+          alt="Product spotlight"
           loading="lazy"
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
         />
